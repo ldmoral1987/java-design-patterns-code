@@ -4,6 +4,7 @@ a funcionar nuestro código. Con el ejemplo observamos
 que se separa la forma en la que se producen los objetos
 de la forma (código) en el que los objetos se usan. 
 
+
 El patrón permite además al usuario de esta librería
 la posibilidad de ampliar o extender la funcionalidad
 de alguno de los componentes (podemos añadir nuevos tipos
