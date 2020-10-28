@@ -1,0 +1,5 @@
+Este patrón permite inyectar las dependencias en una clase cuando son necesarias, 
+sin necesidad de tener que redefinir o reprogramar la clase. Esto permite
+desacoplar la construcción de las clases de la construcción de las dependencias 
+de cada clase. De esta forma, desacoplamos las clases entre sí, de forma
+que las dependencias de cada clase se inyectan y se resuelven en tiempo de compilación.
