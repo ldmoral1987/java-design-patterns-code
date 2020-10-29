@@ -1,4 +1,4 @@
-package com.ceslopedevega.patrones.creacionales.dependencyinjection.inventory;
+package com.ceslopedevega.patterns.creational.dependencyinjection.inventory;
 
 /**
 * Esta interfaz define el método de cálculo de capacidad de inventario

@@ -1,6 +1,6 @@
-package com.ceslopedevega.patrones.creacionales.factorymethod.factory;
+package com.ceslopedevega.patterns.creational.factorymethod.factory;
 
-import com.ceslopedevega.patrones.creacionales.factorymethod.buttons.Button;
+import com.ceslopedevega.patterns.creational.factorymethod.buttons.Button;
 
 /**
  * Clase factoria. En realidad el nombre de la clase puede ser cualquiera

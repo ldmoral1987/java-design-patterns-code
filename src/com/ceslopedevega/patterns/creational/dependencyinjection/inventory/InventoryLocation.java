@@ -1,4 +1,4 @@
-package com.ceslopedevega.patrones.creacionales.dependencyinjection.inventory;
+package com.ceslopedevega.patterns.creational.dependencyinjection.inventory;
 
 /**
 * Esta clase representa al servicio de inventario de la aplicación. La clase admite

@@ -1,8 +1,8 @@
-package com.ceslopedevega.patrones.creacionales.factorymethod;
+package com.ceslopedevega.patterns.creational.factorymethod;
 
-import com.ceslopedevega.patrones.creacionales.factorymethod.factory.Dialog;
-import com.ceslopedevega.patrones.creacionales.factorymethod.factory.HtmlDialog;
-import com.ceslopedevega.patrones.creacionales.factorymethod.factory.WindowDialog;
+import com.ceslopedevega.patterns.creational.factorymethod.factory.Dialog;
+import com.ceslopedevega.patterns.creational.factorymethod.factory.HtmlDialog;
+import com.ceslopedevega.patterns.creational.factorymethod.factory.WindowDialog;
 
 /**
  * Clase Demo. Esta clase cliente usa la factoria para 

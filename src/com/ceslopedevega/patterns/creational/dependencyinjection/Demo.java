@@ -1,7 +1,7 @@
-package com.ceslopedevega.patrones.creacionales.dependencyinjection;
+package com.ceslopedevega.patterns.creational.dependencyinjection;
 
-import com.ceslopedevega.patrones.creacionales.dependencyinjection.inventory.*;
-import com.ceslopedevega.patrones.creacionales.dependencyinjection.storage.*;
+import com.ceslopedevega.patterns.creational.dependencyinjection.inventory.*;
+import com.ceslopedevega.patterns.creational.dependencyinjection.storage.*;
 
 /**
 * Clase principal de la aplicación. Permite ejecutar el ejemplo mediante la función main

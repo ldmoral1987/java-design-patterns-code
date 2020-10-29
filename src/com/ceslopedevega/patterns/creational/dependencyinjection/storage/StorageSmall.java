@@ -1,6 +1,6 @@
-package com.ceslopedevega.patrones.creacionales.dependencyinjection.storage;
+package com.ceslopedevega.patterns.creational.dependencyinjection.storage;
 
-import com.ceslopedevega.patrones.creacionales.dependencyinjection.inventory.Inventory;
+import com.ceslopedevega.patterns.creational.dependencyinjection.inventory.Inventory;
 
 /**
 * Esta clase representa a una ubicación de almacenamiento pequeño, compuesta por un edificio

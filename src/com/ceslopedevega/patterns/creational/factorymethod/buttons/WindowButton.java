@@ -1,4 +1,4 @@
-package com.ceslopedevega.patrones.creacionales.factorymethod.buttons;
+package com.ceslopedevega.patterns.creational.factorymethod.buttons;
 
 import javax.swing.*;
 import java.awt.*;
