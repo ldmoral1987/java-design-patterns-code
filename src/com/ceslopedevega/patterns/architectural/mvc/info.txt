@@ -1,0 +1,13 @@
+Este patrón de arquitectura tiene tres componentes básicos: modelo, vista y controlador.
+El fundamento principal de este patrón es que cada componente está separado en diferentes
+objetos, por lo que los componentes no se puedne combinar en una única clase.
+
+El patrón separa la lógica de negocios y la capa de representación de la información:
+
+  - Modelo: contiene los datos de aplicación.
+  
+  - Vista: presenta los datos del modelo al usuario. Sabe cómo acceder al modelo, pero no sabe
+    qué significan estos datos ni lo que el usuario puede hacer con ellos.
+    
+  - Controlador: conecta la vista y el modelo. Escucha los eventos de la vista y ejecuta
+    el procedimiento adecuado para cada evento
